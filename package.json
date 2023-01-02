@@ -4,11 +4,6 @@
   "version": "0.1.1",
   "description": "PhEngine Motion package",
   "keywords": [],
-  "dependencies": {
-    "com.phun.phengine.core": "",
-    "com.unity.textmeshpro": "",
-    "com.demigiant.dotween": ""
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/phanphantz/PhEngine-Motion"
